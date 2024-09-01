@@ -1,7 +1,29 @@
+"Edge Computing":
+  color: "#0072BD"
+
+"Automation":
+  color: "#D95319"
+
+"Intelligent Network":
+  color: "#EDB120"
+  
+
 "GLOBECOM":
   color: "#0072BD"
 
 "ICC":
+  color: "#0072BD"
+
+"IROS":
+  color: "#0072BD"
+
+"ICRA":
+  color: "#0072BD"
+
+"HPCC":
+  color: "#0072BD"
+
+"ICRA":
   color: "#0072BD"
 
 "ICONIP":
